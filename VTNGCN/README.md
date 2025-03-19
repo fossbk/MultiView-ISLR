@@ -1,10 +1,8 @@
 # VTNGCN
 ## Introduction
-<img src="images/VTN3GCN.jpg" width="800">
+<img src="images/VTNGCN.png" width="800">
 
 In this study, we propose a two-stream VTNGCN model that enhances video understanding for sign language recognition by integrating RGB frame data with keypoint coordinates from multi-view data, achieving superior performance compared to the original Video Transformer Networks model.
-
-<img src="images/VTN3GCN-Ele.jpg" width="800">
 
 ## Data
 Multi-VSL dataset was collected in collaboration with 28 volunteers, including both teachers and hearing-impaired students from Hanoi School for the Deaf. The dataset comprises 18,981 videos, each video captures a volunteer performing a single gloss from one of three distinct viewpoints: left (~45°), center (~0°), and right (~45°), to ensure high representativeness.
